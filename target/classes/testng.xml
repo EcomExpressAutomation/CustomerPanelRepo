@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name= "CLP Application Test Automation suite"> 
+
+	<listeners>
+		<listener class-name="com.qa.clp.extentReportListener.ExtentReporterNG" />
+	</listeners>
+
+<test name="CLP App Test Cases">
+<classes>
+
+<class name="com.qa.cpl.test.LoginPageTest"> </class>
+
+
+
+</classes>
+</test>
+</suite>
