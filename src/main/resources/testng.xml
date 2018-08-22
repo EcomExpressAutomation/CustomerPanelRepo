@@ -11,6 +11,8 @@
 <classes>
 
 <class name="com.qa.cpl.test.LoginPageTest"> </class>
+<class name="com.qa.cpl.test.HomePageTest"> </class>
+
 
 
 
